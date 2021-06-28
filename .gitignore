@@ -1,6 +1,5 @@
-
-# Created by https://www.gitignore.io/api/go
-# Edit at https://www.gitignore.io/?templates=go
+### Runtime-generated files
+*.html
 
 ### Go ###
 # Binaries for programs and plugins
